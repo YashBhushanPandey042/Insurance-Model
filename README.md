@@ -1,1 +1,1 @@
-Deplyed Link:https://insurancepremimum.streamlit.app/
+Deployed Link:https://insurancepremimum.streamlit.app/
