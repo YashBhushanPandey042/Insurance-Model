@@ -7,7 +7,7 @@ st.title("💰 Insurance Premium Predictor")
 
 
 age = st.number_input("Enter Age", min_value=18, max_value=100, step=1)
-bmi = st.number_input("Enter BMI", min_value=21, max_value=50.0, step=1)
+bmi = st.number_input("Enter BMI", min_value=21.0, max_value=50.0, step=1)
 sex = st.radio("Sex", ["Female", "Male"])
 smoker = st.radio("Smoker", ["No", "Yes"])
 children = st.number_input("Number of Children", min_value=0, max_value=10, step=1)
